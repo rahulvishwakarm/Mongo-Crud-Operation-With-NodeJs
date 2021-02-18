@@ -1,0 +1,22 @@
+{
+  "name": "mongodbcrudoperation",
+  "version": "1.0.0",
+  "description": "crud operation with nodejs and mongo",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulvishwakarm/Mongo-Crud-Operation-With-NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulvishwakarm/Mongo-Crud-Operation-With-NodeJs/issues"
+  },
+  "homepage": "https://github.com/rahulvishwakarm/Mongo-Crud-Operation-With-NodeJs#readme",
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  }
+}
